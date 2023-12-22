@@ -3,7 +3,7 @@ let highestZ = 1;
 class Paper {
   holdingPaper = false;
   mouseTouchX = 0;
-  mouseTouchY = 0;
+  mouseTouchY = 0; 
   mouseX = 0;
   mouseY = 0;
   prevMouseX = 0;
